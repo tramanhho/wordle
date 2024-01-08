@@ -1,3 +1,4 @@
+## About
 ![Gameplay][gameplay]
 
 This is a port of _Wordle_ by Josh Wardle in Python for desktop. 
