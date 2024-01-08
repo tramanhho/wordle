@@ -1,5 +1,5 @@
 ## About
-![Gameplay][gameplay]
+![](https://file.garden/ZZx7DrwcdjLfA7ev/full%20gameplay.gif)
 
 This is a port of _Wordle_ by Josh Wardle in Python for desktop. 
 
@@ -13,11 +13,8 @@ It has an interactive keyboard popup that is also color coded to track the playe
 
 If the player guesses a word that is not in the dictionary, the game will alert the player. 
 
-![Not a word][incorrect]
+![](https://file.garden/ZZx7DrwcdjLfA7ev/not%20a%20word.gif)
 
 ## Acknowledgments
 * Josh Wardle and *The New York Times* for Wordle
 * rdbende for the Sun Valley Tkinter theme
-
-[gameplay]: https://file.garden/ZZx7DrwcdjLfA7ev/full%20gameplay.gif
-[incorrect]: https://file.garden/ZZx7DrwcdjLfA7ev/not%20a%20word.gif
